@@ -1,2 +1,2 @@
 # businessWeb
-This project is written by html+CSS
+设计图是及文字内容是参考《别具光芒 DIV+CSS网页布局与美化》一书，但源代码都是自己写的。主要是通过这个简单例子加强对CSS的熟练程度
