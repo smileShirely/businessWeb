@@ -1,0 +1,139 @@
+body {
+	background: #cccccc;
+	margin: 0;
+	padding: 0;
+}
+.main {
+	width: 621.3px;
+	margin: 5px auto 0px;
+	background: #006600;
+}
+header {
+	background: #add633;
+	height: 101px;
+	position: relative;
+	margin: 1px;
+}
+.lang {
+	margin-top: -16px;
+	margin-left: 450px;
+	background: #ff9900;
+	width: 170px;
+}
+.lang a {
+	margin-left: 100px;
+	font-size: 18px;
+	text-transform: uppercase;
+	font-family: sans-serif;
+	font-weight: bolder;
+	text-decoration: none;
+	color: #000;
+}
+.lang a:hover {
+	cursor: pointer;
+}
+header img {
+	margin-top: 15px;
+	margin-left: 12px;
+}
+.content {
+	background: #006600;
+	display: -webkit-flex;
+	display: flex;
+	display: -moz-flex;
+}
+.left_content {
+	width: 149px;
+}
+.left_content table {
+	margin-top: 12px;
+	margin-left: 23.7px;
+	width: 100.3px;
+	height: 107px;
+}
+.tb a {
+	text-decoration: none;
+}
+.tb tr {
+	display: block;
+	height: 26px;
+	margin-top: 2px;
+	padding-top: 1px;
+}
+.tb tr :first-child{
+	width: 4px;
+	background: #ff9900;
+	height: 26px;
+}
+.tb tr :last-child {
+	background: #99cc00;
+	width: 96.3px;
+	height: 26px;
+}
+.tb tr a {
+	padding-left: 21.3px;
+	color: #666666;
+	font-size: 14px;
+}
+.tb tr a:hover {
+	color: #ffffff;
+	cursor: pointer;
+}
+
+.right_content {
+	width: 472.3px;
+	background: #fff;
+	margin: 1px;
+	text-align: center;
+}
+.text {
+	font-size: 10px;
+	padding: 0 22px; 
+}
+.text p {
+	text-align: left;
+	line-height: 17px;
+	text-indent: 2em;
+	margin-top: 25px;
+}
+.text p a {
+	color: #666666;
+	text-decoration: none;
+}
+.text p a:hover {
+	color: #ff9900;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.changeColor {
+	color: #ff7c1d!important;
+	text-decoration: underline;
+} 
+.text h3 {
+	padding-top: 0;
+	margin-top: 40px;
+	font-size: 15px;
+}
+.text hr{						
+	display: block; 
+	height: .1px;
+    border: 0; 
+	border-top: 1px solid #006600;
+   	margin-top: -9px;
+	padding: 0; 
+}
+.footer {
+	background: #ff9900;
+	margin-top: 45px;
+	height: 20px;
+	font-size: 11px;
+	padding-top: 3px;
+}
+.footer a {
+	text-decoration: none;
+	color: #000;
+}
+.footer a:hover {
+	cursor: pointer;
+	text-decoration: underline;
+}

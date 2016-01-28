@@ -1,0 +1,104 @@
+*,body {
+	margin: 0;
+	padding: 0;
+}
+#total {
+	background: #cccccc;
+	height: 680px;
+	width: 1000px;
+	padding: 1px;
+}
+#main {
+	height: 415px;
+	width: 770px;
+	margin:40px auto;
+	background: #006600;
+	padding-top: 95px;
+}
+#logo {
+	height: 250px;
+	width: 770px;
+	background: #006600;
+	border-top: 1px dashed #fff;
+	border-bottom: 1px dashed #fff;
+}
+#logo_text {
+	height: 240px;
+	width: 765px;
+	background: #a5d21f;
+	margin: 4px auto;
+}
+#logo_text img {
+	padding-top: 100px;
+	padding-left: 110px;
+}
+#logo_text p {
+	padding: 10px 240px;
+	font-size: 12px;
+}
+#logo_text p a:hover{
+	cursor: pointer;
+	color: #f86630;
+	text-decoration: underline;
+}
+#box {
+	width: 270px;
+	height: 507px;
+	margin-top: -346px;
+	margin-left: 470px;
+	position: relative;
+}
+.h_text {
+	background: #ffffff;
+	height: 240px;
+}
+.h_text p {
+	text-align: justify;
+	font-size: 11px;
+	padding: 20px 16px 8px;
+	text-indent: 1em;
+}
+.h_text ul {
+	padding-left: 4.6em;
+	font-size: 11px;
+}
+.h_text ul li {
+	list-style-type: square;
+}
+.h_text a{
+	color: #666666;
+	margin-left: -3px;
+	text-decoration: none;
+}
+.h_text a:hover {
+	color: #ff9900;
+	cursor: pointer;
+	text-decoration: underline;
+}
+.op1 {
+	height: 99px;
+}
+.ver {
+	height: 16px;
+	background: #ff9900;
+}
+.ver p {
+	float: right;
+	font-weight: bolder;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+}
+.ver p a {
+	text-decoration: none;
+	color: #000;
+}
+.ver p a:hover {
+	color: #006600;
+}
+.op2 {
+	height: 154px;
+}
+#box [class^="op"] {
+	background: #85d885;
+	opacity: .4;
+}

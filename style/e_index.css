@@ -1,0 +1,17 @@
+.h_text p {
+	letter-spacing: -1.3px;
+	padding-bottom: 0px;
+	padding-top: 17px;
+	font-size: 14px;
+	text-indent: 0;
+	line-height: 15px;
+}
+.h_text ul {
+	padding-top: 9px;
+}
+.ver p a {
+	font-size: 13px;
+}
+.ver p {
+	margin-top: -1px;
+}

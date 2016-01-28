@@ -1,0 +1,13 @@
+.text dl {
+	text-align: left;
+}
+.text dl dt {
+	font-weight: bolder;
+	padding-top: 20px;
+}
+.text dd {
+	padding-top: 15px;
+}
+.text a {
+	text-decoration: none;
+}
